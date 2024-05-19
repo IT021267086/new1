@@ -201,7 +201,7 @@ Feel free to explore the repository, contribute, and provide feedback to help us
 
 ### Admin Credentials
 - **Username:** Admin
-- **Password:** password
+- **Password:** Ds54728@
 <br>
 
 ## Testing
