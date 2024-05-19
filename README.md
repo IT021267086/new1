@@ -200,7 +200,7 @@ Feel free to explore the repository, contribute, and provide feedback to help us
     - Open your web browser and navigate to `https://localhost/E-Voting System Online`.
 
 ### Admin Credentials
-- **Username:** Admin
+- **Username:** admin
 - **Password:** Ds54728@
 <br>
 
