@@ -1,4 +1,4 @@
-# Secure Voting System
+# Secure E-Voting System
 
 ## Abstract
 
