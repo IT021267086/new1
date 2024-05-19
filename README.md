@@ -1,3 +1,12 @@
+## Student Details:
+
+| Student ID | Name        |
+|------------|-------------|
+| IT21305078          | Shehara M.G.D |
+| IT21267086         | Hasara L.A.N  |
+
+<br>
+
 # Secure E-Voting System
 
 ## Abstract
