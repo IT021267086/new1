@@ -9,6 +9,20 @@
 
 # Secure E-Voting System
 
+## Table of Contents
+- [Abstract](#abstract)
+- [Features](#features)
+  - [Admin Panel](#admin-panel)
+  - [Voter Panel](#voter-panel)
+- [Security Features](#security-features)
+- [Documentation](#documentation)
+  - [Software Requirements](#software-requirements)
+- [Prerequisites](#prerequisites)
+- [Download and Install](#download-and-install)
+- [Testing](#testing)
+  - [Example API Requests](#example-api-requests)
+- [Future Work](#future-work)
+
 ## Abstract
 
 ### Secure E-Voting System for Hotel Chain
@@ -179,13 +193,16 @@ Feel free to explore the repository, contribute, and provide feedback to help us
       ```
       Github link: https://github.com/PHPMailer/PHPMailer
 
+7. **Download Dataset:**
+    - Download the Network Intrusion Detection, UNSW-NB15 dataset from [Kaggle](https://www.kaggle.com/datasets/dhoogla/unswnb15).
 
-7. **Install Python Libraries:**
+8. **Install Python Libraries:**
     - Ensure you have Python installed. Then, install the necessary libraries:
       ```bash
       pip install pandas scikit-learn flask
       ```
       Start the Flask Server for ML Anomaly Detection
+      
 <br>
    
 ## Download and Install
