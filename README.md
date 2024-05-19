@@ -74,37 +74,45 @@ Feel free to explore the repository, contribute, and provide feedback to help us
 ## Documentation
 
 ### Software Requirements
-<br>
 
-- **Operating System:** Windows 10/11
+- **Web Browsers:** 
+  - The latest versions of Chrome, Firefox, Safari, and Edge.
 
-## Front End
+- **Operating Systems:**
+  - **Windows:** Windows 10 or later.
+  - **macOS:** macOS 10.15 (Catalina) or later.
+  - **iOS:** iOS 13 or later.
+  - **Android:** Android 9 (Pie) or later.
+
+
+- **Front End**:
 
 <div style="text-align: center;">
   <table style="border-collapse: collapse; margin: 0 auto;">
     <tr>
-      <td style="text-align: center; border: none;">
+      <td style="text-align: center; border: none; padding: 10px;">
         <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="HTML" width="50" height="50">
         <br>HTML
       </td>
-      <td style="text-align: center; border: none;">
+      <td style="text-align: center; border: none; padding: 10px;">
         <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" alt="CSS" width="50" height="50">
-        <br> CSS
+        <br>CSS
       </td>
-      <td style="text-align: center; border: none;">
+      <td style="text-align: center; border: none; padding: 10px;">
         <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript" width="50" height="50">
         <br>JavaScript
       </td>
-      <td style="text-align: center; border: none;">
+      <td style="text-align: center; border: none; padding: 10px;">
         <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" alt="Bootstrap" width="50" height="50">
         <br>Bootstrap
       </td>
     </tr>
   </table>
 </div>
+
 <br>
 
-## Back End
+- **Back End**:
 
 <table style="border-collapse: collapse; width: 100%;">
   <tr>
@@ -131,7 +139,7 @@ Feel free to explore the repository, contribute, and provide feedback to help us
 <br>
 
 - **Device:**  MFS100 (Fingerprint Scanner)
-
+<br>
 
 
 ## Prerequisites
@@ -169,7 +177,8 @@ Feel free to explore the repository, contribute, and provide feedback to help us
       pip install pandas scikit-learn flask
       ```
       Start the Flask Server for ML Anomaly Detection
-
+<br>
+   
 ## Download and Install
 1. **Download the Project:**
     - Download "E-Voting System Online" as a zip file or use WinRAR.
@@ -193,6 +202,7 @@ Feel free to explore the repository, contribute, and provide feedback to help us
 ### Admin Credentials
 - **Username:** Admin
 - **Password:** password
+<br>
 
 ## Testing
 
@@ -201,6 +211,8 @@ To test the API, follow these steps:
 1. Open a terminal.
 2. Make sure the API is running.
 3. Send the payload for testing using the `curl` command and observe whether it is normal or fraud.
+
+### Example API Requests
 
 ```sh
 # Normal data point
@@ -222,8 +234,8 @@ curl -X POST -H "Content-Type: application/json" -d "{\"ct_src_dport_ltm\": 100,
 # {
 #   "result": "fraud"
 # }
-
 ```
+<br>
 
 ## Future Work
 
