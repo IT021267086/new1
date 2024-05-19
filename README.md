@@ -1,4 +1,4 @@
-## Student Details:
+## Student Details
 
 | Student ID | Name        |
 |------------|-------------|
