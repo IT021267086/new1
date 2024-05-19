@@ -135,18 +135,27 @@ Feel free to explore the repository, contribute, and provide feedback to help us
 
 
 ## Prerequisites
-1. **Enable GD Extension in XAMPP:** 
+
+1. **Download and Install XAMPP:**
+    - Go to the [XAMPP download page](https://www.apachefriends.org/index.html) and download the version suitable for your operating system.
+    - Follow the installation instructions to install XAMPP on your computer.
+
+2. **Download and Install Python:**
+    - Go to the [Python download page](https://www.python.org/downloads/) and download the latest version of Python.
+    - Follow the installation instructions to install Python on your computer.
+
+3. **Enable GD Extension in XAMPP:** 
     - Open `php.ini` file located in the XAMPP installation directory.
     - Uncomment the line `extension=gd`.
     - Restart Apache from the XAMPP control panel.
     
-2. **Install OpenSSL:**
+4. **Install OpenSSL:**
     - Download and install OpenSSL from [here](https://slproweb.com/products/Win32OpenSSL.html).
 
-3. **Install Composer:**
+5. **Install Composer:**
     - Download and install Composer from [here](https://getcomposer.org/download/).
 
-4. **Install PHPMailer:**
+6. **Install PHPMailer:**
     - Use Composer to install PHPMailer by running the following command in your project directory:
       ```bash
       composer require phpmailer/phpmailer
@@ -154,7 +163,7 @@ Feel free to explore the repository, contribute, and provide feedback to help us
       Github link: https://github.com/PHPMailer/PHPMailer
 
 
-5. **Install Python Libraries:**
+7. **Install Python Libraries:**
     - Ensure you have Python installed. Then, install the necessary libraries:
       ```bash
       pip install pandas scikit-learn flask
