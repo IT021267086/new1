@@ -19,9 +19,10 @@
   - [Software Requirements](#software-requirements)
   - [Prerequisites](#prerequisites)
   - [Download and Install](#download-and-install)
-  - [Testing](#testing)
-    - [Example API Requests](#example-api-requests)
+- [Testing](#testing)
+  - [Example API Requests](#example-api-requests)
 - [Future Work](#future-work)
+
 
 ## Abstract
 
