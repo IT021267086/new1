@@ -17,9 +17,9 @@
 - [Security Features](#security-features)
 - [Documentation](#documentation)
   - [Software Requirements](#software-requirements)
-- [Prerequisites](#prerequisites)
-- [Download and Install](#download-and-install)
-- [Testing](#testing)
+  - [Prerequisites](#prerequisites)
+  - [Download and Install](#download-and-install)
+  - [Testing](#testing)
   - [Example API Requests](#example-api-requests)
 - [Future Work](#future-work)
 
