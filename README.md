@@ -80,26 +80,28 @@ Feel free to explore the repository, contribute, and provide feedback to help us
 
 ## Front End
 
-<table style="border-collapse: collapse; width: 100%;">
-  <tr>
-    <td style="text-align: center; border: none;">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="HTML" width="50">
-      <br>HTML
-    </td>
-    <td style="text-align: center; border: none;">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" alt="CSS" width="50">
-      <br>CSS
-    </td>
-    <td style="text-align: center; border: none;">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript" width="50">
-      <br>JavaScript
-    </td>
-    <td style="text-align: center; border: none;">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" alt="Bootstrap" width="50">
-      <br>Bootstrap
-    </td>
-  </tr>
-</table>
+<div style="text-align: center;">
+  <table style="border-collapse: collapse; margin: 0 auto;">
+    <tr>
+      <td style="text-align: center; border: none;">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="HTML" width="50" height="50">
+        <br>HTML
+      </td>
+      <td style="text-align: center; border: none;">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" alt="CSS" width="50" height="50">
+        <br> CSS
+      </td>
+      <td style="text-align: center; border: none;">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript" width="50" height="50">
+        <br>JavaScript
+      </td>
+      <td style="text-align: center; border: none;">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" alt="Bootstrap" width="50" height="50">
+        <br>Bootstrap
+      </td>
+    </tr>
+  </table>
+</div>
 <br>
 
 ## Back End
@@ -107,11 +109,11 @@ Feel free to explore the repository, contribute, and provide feedback to help us
 <table style="border-collapse: collapse; width: 100%;">
   <tr>
     <td style="text-align: center; border: none;">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" alt="PHP" width="50">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" alt="PHP" width="50" height="50">
       <br>PHP
     </td>
     <td style="text-align: center; border: none;">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" width="50">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" width="50" height="50">
       <br>Python
     </td>
   </tr>
